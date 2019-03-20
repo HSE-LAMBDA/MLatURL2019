@@ -18,3 +18,6 @@ Agenda:
 - EDA: exploratory data analysis (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 - Linear regression example by hand (https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent)
 - Linear regression example by SciKit-Learn
+
+### Day 3
+- https://www.kaggle.com/riteshdash/linear-regression-numpy-pandas-sklearn-matplotlib
