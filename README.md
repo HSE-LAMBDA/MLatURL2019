@@ -10,7 +10,6 @@ Agenda:
 - Introduction into ML, why it works
 - Pizzeria example, feature and target space
 - Linear Regression
-- Overfitting
 
 ### Day 2
 - Numpy, Matplotlib, Pandas, Seaborn
@@ -22,4 +21,14 @@ Agenda:
 - Linear regression example by SciKit-Learn
 
 ### Day 3
-- https://www.kaggle.com/riteshdash/linear-regression-numpy-pandas-sklearn-matplotlib
+- Linear regression
+- Scikit-learn
+- Gradient descent
+- Overfitting
+
+### Day 4
+- Logistic regression
+- Figures of merit, ROC
+- K-fold cross-validation
+- K-neares neighbors
+- Regularization
