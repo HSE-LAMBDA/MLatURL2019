@@ -32,3 +32,7 @@ Agenda:
 - K-fold cross-validation
 - K-neares neighbors
 - Regularization
+- https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
+
+### Day 5
+
