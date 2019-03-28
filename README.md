@@ -48,4 +48,16 @@ Agenda:
 - Inofrmation Bottleneck - https://github.com/ravidziv/IDNNs
 - NN interpretation: [heatmap](http://heatmapping.org/deeptaylor/), [simple one](https://towardsdatascience.com/understanding-convolutional-neural-networks-through-visualizations-in-pytorch-b5444de08b91
 
+### Day 8
+- Topics:
+    - GridSearchCV (https://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html)
+    - https://github.com/skorch-dev/skorch
+    - Bayesian optimisation https://github.com/scikit-optimize/scikit-optimize/blob/master/examples/bayesian-optimization.ipynb
+    - https://github.com/scikit-optimize/scikit-optimize/blob/master/examples/sklearn-gridsearchcv-replacement.ipynb
+    - comparison https://scikit-optimize.github.io/notebooks/strategy-comparison.html
+    - DARTS https://github.com/dragen1860/DARTS-PyTorch, https://github.com/quark0/darts
 
+- Exercises:
+    + finish day7 practice.ipynb
+    + scikit-optimize notebook (bayesian_optimization.ipynb)
+    + comet.ml optimisation (optimise_FMNIST.ipynb)
