@@ -60,4 +60,5 @@ Agenda:
 - Exercises:
     + finish day7 practice.ipynb
     + scikit-optimize notebook (bayesian_optimization.ipynb)
+    + skorch: pytorch to scikit (skorch_FMNIST.ipynb)
     + comet.ml optimisation (optimise_FMNIST.ipynb)
