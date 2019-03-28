@@ -37,3 +37,15 @@ Agenda:
 ### Day 5
 - Multilayer Perceptron
 - Intro into PyTorch, https://pytorch.org/tutorials/beginner/blitz/tensor_tutorial.html, https://pytorch.org/get-started/locally/
+
+### Day 6
+- Computer vision
+- Convolutional, pooling layers
+
+### Day 7
+- Dropout, Batch normalisation
+- https://www.comet.ml/
+- Inofrmation Bottleneck - https://github.com/ravidziv/IDNNs
+- NN interpretation: [heatmap](http://heatmapping.org/deeptaylor/), [simple one](https://towardsdatascience.com/understanding-convolutional-neural-networks-through-visualizations-in-pytorch-b5444de08b91
+
+
